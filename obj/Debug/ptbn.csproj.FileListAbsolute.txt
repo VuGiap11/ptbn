@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\dientichhinhchunhat\ptbn\bin\Debug\ptbn.exe.config
+C:\Users\tuan\Desktop\dientichhinhchunhat\ptbn\bin\Debug\ptbn.exe
+C:\Users\tuan\Desktop\dientichhinhchunhat\ptbn\bin\Debug\ptbn.pdb
+C:\Users\tuan\Desktop\dientichhinhchunhat\ptbn\obj\Debug\ptbn.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\dientichhinhchunhat\ptbn\obj\Debug\ptbn.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\dientichhinhchunhat\ptbn\obj\Debug\ptbn.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\dientichhinhchunhat\ptbn\obj\Debug\ptbn.exe
+C:\Users\tuan\Desktop\dientichhinhchunhat\ptbn\obj\Debug\ptbn.pdb
